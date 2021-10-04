@@ -1,7 +1,7 @@
 ﻿
 namespace dictionaryUI
 {
-    partial class Form1
+    partial class anaform
     {
         /// <summary>
         /// Required designer variable.

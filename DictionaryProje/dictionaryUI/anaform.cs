@@ -10,10 +10,10 @@ using System.Windows.Forms;
 
 namespace dictionaryUI
 {
-    public partial class Form1 : Form
+    public partial class anaform : Form
     {
         dictionary.BLL.BusinessLogicLayer BLL;
-        public Form1()
+        public anaform()
         {
             InitializeComponent();
             BLL = new dictionary.BLL.BusinessLogicLayer();
