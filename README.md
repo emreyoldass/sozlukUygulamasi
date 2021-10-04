@@ -1,0 +1,2 @@
+# sozlukUygulamasi
+SözlükUygulaması
